@@ -1,10 +1,3 @@
-// Name: Gagandeep Singh Sidhu	
-// Seneca Student ID: 157393216
-// Seneca email: gsidhu28@myseneca.ca
-// Date of completion: 2023-08-04
-// project milestone 3
-// I confirm that I am the only author of this file
-//   and the content was created entirely by me.
 #include "Workstation.h"
 
 using namespace sdds;
